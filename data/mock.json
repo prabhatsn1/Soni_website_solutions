@@ -1,0 +1,742 @@
+{
+  "site": {
+    "name": "Soni Web Solutions",
+    "shortName": "Soni Web",
+    "tagline": "We build high-converting, modern websites for businesses.",
+    "description": "Soni Web Solutions designs and builds modern, high-performance websites that help businesses look credible, load fast, and convert better.",
+    "url": "https://soniwebsolutions.com",
+    "locale": "en_US",
+    "themeColor": "#09090b",
+    "keywords": [
+      "web design agency",
+      "business website design",
+      "next.js development",
+      "landing page design",
+      "website redesign",
+      "conversion focused websites"
+    ]
+  },
+  "brand": {
+    "name": "Soni Web Solutions",
+    "logoText": "Soni Web Solutions",
+    "shortLogoText": "SWS",
+    "founderName": "Prabhat Soni",
+    "foundedYear": 2021
+  },
+  "navigation": {
+    "links": [
+      { "label": "Services", "href": "/services" },
+      { "label": "Portfolio", "href": "/portfolio" },
+      { "label": "Pricing", "href": "/pricing" },
+      { "label": "Process", "href": "/process" },
+      { "label": "About", "href": "/about" },
+      { "label": "Blog", "href": "/blog" }
+    ],
+    "cta": { "label": "Start a Project", "href": "/contact" }
+  },
+  "hero": {
+    "badge": "Now booking new projects for Q3",
+    "headline": "Modern websites that turn visitors into customers.",
+    "highlightWord": "customers",
+    "subheadline": "We design and build fast, elegant, conversion-focused websites for businesses that want to look credible, rank higher, and grow online.",
+    "primaryCta": { "label": "Start a Project", "href": "/contact" },
+    "secondaryCta": { "label": "View Our Work", "href": "/portfolio" },
+    "stats": [
+      { "label": "Projects Delivered", "value": "120+" },
+      { "label": "Avg. Lighthouse Score", "value": "98" },
+      { "label": "Client Satisfaction", "value": "99%" },
+      { "label": "Avg. Turnaround", "value": "3 wks" }
+    ]
+  },
+  "logos": [
+    { "name": "Northwind Traders" },
+    { "name": "Aster & Co." },
+    { "name": "Brightline Legal" },
+    { "name": "Havenwood Realty" },
+    { "name": "Solace Health" },
+    { "name": "Kestrel Finance" }
+  ],
+  "services": [
+    {
+      "id": "business-websites",
+      "slug": "business-websites",
+      "icon": "Building2",
+      "title": "Business Websites",
+      "shortDescription": "Professional marketing websites that build trust and generate leads for established businesses.",
+      "whatsIncluded": [
+        "Custom UI/UX design",
+        "Up to 8 responsive pages",
+        "SEO-optimized structure",
+        "Content management setup",
+        "Contact & lead forms",
+        "Analytics integration"
+      ],
+      "whoItsFor": "Established businesses that need a credible, professional online presence.",
+      "startingPrice": "₹1,00,000",
+      "ctaLabel": "Get a Quote",
+      "ctaHref": "/contact"
+    },
+    {
+      "id": "ecommerce-websites",
+      "slug": "ecommerce-websites",
+      "icon": "ShoppingCart",
+      "title": "E-commerce Websites",
+      "shortDescription": "Conversion-focused online stores that make it easy for customers to browse, buy, and come back.",
+      "whatsIncluded": [
+        "Custom storefront design",
+        "Product catalog & variants",
+        "Secure checkout integration",
+        "Payment gateway setup",
+        "Inventory-ready structure",
+        "Mobile-first shopping experience"
+      ],
+      "whoItsFor": "Brands and retailers ready to sell products online.",
+      "startingPrice": "₹2,10,000",
+      "ctaLabel": "Get a Quote",
+      "ctaHref": "/contact"
+    },
+    {
+      "id": "landing-pages",
+      "slug": "landing-pages",
+      "icon": "Rocket",
+      "title": "Landing Pages",
+      "shortDescription": "High-converting single pages built for campaigns, product launches, and lead generation.",
+      "whatsIncluded": [
+        "Conversion-first copywriting layout",
+        "A/B test-ready sections",
+        "Fast, single-page build",
+        "Lead capture forms",
+        "Analytics & pixel setup",
+        "1 round of optimization"
+      ],
+      "whoItsFor": "Marketers and founders launching a campaign, product, or offer.",
+      "startingPrice": "₹54,000",
+      "ctaLabel": "Get a Quote",
+      "ctaHref": "/contact"
+    },
+    {
+      "id": "website-redesign",
+      "slug": "website-redesign",
+      "icon": "RefreshCcw",
+      "title": "Website Redesign",
+      "shortDescription": "A modern, faster, better-converting version of your existing website — without losing your SEO.",
+      "whatsIncluded": [
+        "Full design audit",
+        "Content migration",
+        "Modernized UI system",
+        "Performance optimization",
+        "SEO preservation & improvement",
+        "Redirect mapping"
+      ],
+      "whoItsFor": "Businesses with an outdated site that no longer reflects their brand.",
+      "startingPrice": "₹1,50,000",
+      "ctaLabel": "Get a Quote",
+      "ctaHref": "/contact"
+    },
+    {
+      "id": "maintenance-seo",
+      "slug": "maintenance-seo",
+      "icon": "ShieldCheck",
+      "title": "Maintenance & SEO",
+      "shortDescription": "Ongoing care to keep your website secure, fast, and visible in search results.",
+      "whatsIncluded": [
+        "Monthly performance checks",
+        "Security & uptime monitoring",
+        "Content & copy updates",
+        "On-page SEO improvements",
+        "Monthly reporting",
+        "Priority support"
+      ],
+      "whoItsFor": "Businesses that want their website to keep improving after launch.",
+      "startingPrice": "₹12,500/mo",
+      "ctaLabel": "Get a Quote",
+      "ctaHref": "/contact"
+    }
+  ],
+  "whyChooseUs": [
+    {
+      "icon": "Gauge",
+      "title": "Built for Speed",
+      "description": "Every site we ship is optimized for near-perfect performance scores and fast load times on any device."
+    },
+    {
+      "icon": "Palette",
+      "title": "Premium Design",
+      "description": "Clean, modern, Apple-inspired design systems that make your business look credible from the first click."
+    },
+    {
+      "icon": "TrendingUp",
+      "title": "Conversion Focused",
+      "description": "Every layout decision is made to guide visitors toward a call to action, not just to look pretty."
+    },
+    {
+      "icon": "Code2",
+      "title": "Engineering Quality",
+      "description": "Built by a software engineer with production-grade code, not template hacks or page builders."
+    },
+    {
+      "icon": "Headphones",
+      "title": "Real Communication",
+      "description": "Direct access to the person building your site. No account managers, no relay chains."
+    },
+    {
+      "icon": "Clock",
+      "title": "Fast Turnaround",
+      "description": "Most projects launch in 2-4 weeks, with clear milestones so you always know what's next."
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "icon": "Search",
+      "title": "Discovery",
+      "description": "We learn about your business, goals, audience, and competitors to define what success looks like."
+    },
+    {
+      "step": "02",
+      "icon": "Compass",
+      "title": "Strategy",
+      "description": "We map out site structure, content strategy, and the conversion path visitors will follow."
+    },
+    {
+      "step": "03",
+      "icon": "PenTool",
+      "title": "Design",
+      "description": "We craft a custom visual design that reflects your brand and builds instant credibility."
+    },
+    {
+      "step": "04",
+      "icon": "Code",
+      "title": "Development",
+      "description": "We build your site with clean, modern code — fast, responsive, and accessible by default."
+    },
+    {
+      "step": "05",
+      "icon": "Rocket",
+      "title": "Launch",
+      "description": "We test thoroughly, connect your domain, and launch your site with zero downtime."
+    },
+    {
+      "step": "06",
+      "icon": "LifeBuoy",
+      "title": "Support",
+      "description": "We stay available post-launch for updates, improvements, and ongoing optimization."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "northwind-traders",
+      "slug": "northwind-traders",
+      "title": "Northwind Traders",
+      "category": "Business Website",
+      "tags": ["Business", "Next.js", "SEO"],
+      "client": "Northwind Traders",
+      "year": "2025",
+      "featured": true,
+      "image": "/portfolio/northwind.svg",
+      "problem": "Northwind's old site was slow, outdated, and rarely converted visitors into inquiries.",
+      "solution": "We rebuilt the site with a modern design system, clear service pages, and a streamlined inquiry flow.",
+      "result": "Inquiry form submissions increased by 64% within the first two months post-launch.",
+      "techStack": ["Next.js", "Tailwind CSS", "Framer Motion"]
+    },
+    {
+      "id": "aster-co",
+      "slug": "aster-co",
+      "title": "Aster & Co.",
+      "category": "E-commerce",
+      "tags": ["E-commerce", "Retail"],
+      "client": "Aster & Co.",
+      "year": "2025",
+      "featured": true,
+      "image": "/portfolio/aster.svg",
+      "problem": "Aster & Co. needed an online store that matched the boutique feel of their physical shop.",
+      "solution": "We designed a warm, elegant storefront with fast product browsing and a frictionless checkout.",
+      "result": "Online sales now account for 38% of total monthly revenue.",
+      "techStack": ["Next.js", "Stripe", "Tailwind CSS"]
+    },
+    {
+      "id": "brightline-legal",
+      "slug": "brightline-legal",
+      "title": "Brightline Legal",
+      "category": "Business Website",
+      "tags": ["Business", "Legal", "Redesign"],
+      "client": "Brightline Legal",
+      "year": "2024",
+      "featured": true,
+      "image": "/portfolio/brightline.svg",
+      "problem": "Their legacy website looked untrustworthy for a legal practice and ranked poorly on Google.",
+      "solution": "We redesigned the site with a professional, authoritative look and rebuilt the SEO foundation.",
+      "result": "Organic search traffic grew 3.2x within six months of relaunch.",
+      "techStack": ["Next.js", "SEO", "Tailwind CSS"]
+    },
+    {
+      "id": "havenwood-realty",
+      "slug": "havenwood-realty",
+      "title": "Havenwood Realty",
+      "category": "Landing Page",
+      "tags": ["Landing Page", "Real Estate"],
+      "client": "Havenwood Realty",
+      "year": "2024",
+      "featured": true,
+      "image": "/portfolio/havenwood.svg",
+      "problem": "Havenwood needed a high-converting landing page for a new property launch campaign.",
+      "solution": "We built a focused, single-page experience with clear CTAs and a fast lead capture form.",
+      "result": "Campaign generated 410 qualified leads in the first three weeks.",
+      "techStack": ["Next.js", "Framer Motion"]
+    },
+    {
+      "id": "solace-health",
+      "slug": "solace-health",
+      "title": "Solace Health",
+      "category": "Business Website",
+      "tags": ["Business", "Healthcare"],
+      "client": "Solace Health",
+      "year": "2024",
+      "featured": false,
+      "image": "/portfolio/solace.svg",
+      "problem": "Solace Health's clinic website was difficult to navigate for patients booking appointments.",
+      "solution": "We simplified navigation and added a clear booking CTA across every page.",
+      "result": "Appointment booking clicks increased by 51%.",
+      "techStack": ["Next.js", "Tailwind CSS"]
+    },
+    {
+      "id": "kestrel-finance",
+      "slug": "kestrel-finance",
+      "title": "Kestrel Finance",
+      "category": "Website Redesign",
+      "tags": ["Redesign", "Finance"],
+      "client": "Kestrel Finance",
+      "year": "2023",
+      "featured": false,
+      "image": "/portfolio/kestrel.svg",
+      "problem": "Kestrel's outdated site failed to reflect the credibility of their advisory services.",
+      "solution": "We introduced a refined, premium design language with clearer service explanations.",
+      "result": "Average session duration increased by 47%.",
+      "techStack": ["Next.js", "Tailwind CSS", "SEO"]
+    }
+  ],
+  "caseStudies": [
+    {
+      "id": "northwind-traders",
+      "slug": "northwind-traders",
+      "title": "How Northwind Traders increased inquiries by 64%",
+      "client": "Northwind Traders",
+      "category": "Business Website",
+      "summary": "A full website rebuild that turned a stagnant brochure site into a lead-generating engine.",
+      "problem": "Northwind Traders had a five-year-old website that loaded slowly, looked dated, and gave visitors no clear next step. Most traffic left without ever making contact.",
+      "approach": "We started with a discovery workshop to understand their services and ideal customers, then designed a clear information architecture with a dedicated inquiry path on every page.",
+      "solution": "The new site uses a modern component system, optimized imagery, and a persistent contact CTA. We also rebuilt the site on Next.js for speed and implemented on-page SEO improvements.",
+      "results": [
+        { "label": "Inquiry increase", "value": "+64%" },
+        { "label": "Page load time", "value": "0.8s" },
+        { "label": "Lighthouse score", "value": "98" }
+      ],
+      "techStack": ["Next.js", "Tailwind CSS", "Framer Motion"],
+      "image": "/portfolio/northwind.svg",
+      "testimonialId": "t1"
+    },
+    {
+      "id": "aster-co",
+      "slug": "aster-co",
+      "title": "Building an elegant storefront for Aster & Co.",
+      "client": "Aster & Co.",
+      "category": "E-commerce",
+      "summary": "A boutique retail brand needed an online store that felt as premium as their physical location.",
+      "problem": "Aster & Co. was selling exclusively in-store and losing potential revenue from customers who wanted to shop online.",
+      "approach": "We mapped their product catalog, defined a checkout flow, and designed a shopping experience that mirrored their in-store aesthetic.",
+      "solution": "We built a fast, elegant storefront with curated collections, an intuitive cart, and a secure checkout integration.",
+      "results": [
+        { "label": "Online revenue share", "value": "38%" },
+        { "label": "Cart completion rate", "value": "72%" },
+        { "label": "Mobile conversion", "value": "+29%" }
+      ],
+      "techStack": ["Next.js", "Stripe", "Tailwind CSS"],
+      "image": "/portfolio/aster.svg",
+      "testimonialId": "t2"
+    },
+    {
+      "id": "brightline-legal",
+      "slug": "brightline-legal",
+      "title": "Rebuilding trust and rankings for Brightline Legal",
+      "client": "Brightline Legal",
+      "category": "Website Redesign",
+      "summary": "A legal practice needed a site that reflected authority and performed well in search.",
+      "problem": "Brightline Legal's outdated site undermined their credibility and ranked far below competitors on Google.",
+      "approach": "We audited their existing content, identified SEO gaps, and designed a more authoritative visual identity.",
+      "solution": "The redesign included a refined typography system, clearer practice area pages, and a technical SEO overhaul.",
+      "results": [
+        { "label": "Organic traffic", "value": "3.2x" },
+        { "label": "Keyword rankings", "value": "+41" },
+        { "label": "Consultation requests", "value": "+58%" }
+      ],
+      "techStack": ["Next.js", "SEO", "Tailwind CSS"],
+      "image": "/portfolio/brightline.svg",
+      "testimonialId": "t3"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "name": "Elena Marsh",
+      "role": "Operations Director",
+      "company": "Northwind Traders",
+      "quote": "Soni Web Solutions completely transformed how customers perceive us online. Inquiries started coming in within days of launch.",
+      "rating": 5,
+      "projectType": "Business Website"
+    },
+    {
+      "id": "t2",
+      "name": "Julian Cole",
+      "role": "Founder",
+      "company": "Aster & Co.",
+      "quote": "Our new store feels exactly like our physical shop — elegant, warm, and easy to use. Online sales have become a real part of our business now.",
+      "rating": 5,
+      "projectType": "E-commerce Website"
+    },
+    {
+      "id": "t3",
+      "name": "Priya Anand",
+      "role": "Managing Partner",
+      "company": "Brightline Legal",
+      "quote": "The redesign gave us instant credibility. We're ranking higher and getting more consultation requests than ever before.",
+      "rating": 5,
+      "projectType": "Website Redesign"
+    },
+    {
+      "id": "t4",
+      "name": "Marcus Webb",
+      "role": "Marketing Lead",
+      "company": "Havenwood Realty",
+      "quote": "The landing page they built for our campaign outperformed every previous launch we've run. Clean, fast, and built to convert.",
+      "rating": 5,
+      "projectType": "Landing Page"
+    },
+    {
+      "id": "t5",
+      "name": "Dr. Amara Osei",
+      "role": "Clinic Director",
+      "company": "Solace Health",
+      "quote": "Patients tell us the new site makes booking an appointment effortless. It's a small change that made a huge difference.",
+      "rating": 5,
+      "projectType": "Business Website"
+    },
+    {
+      "id": "t6",
+      "name": "Thomas Reid",
+      "role": "CEO",
+      "company": "Kestrel Finance",
+      "quote": "Working with Soni Web Solutions was refreshingly simple — direct communication, sharp execution, and a site that finally matches our brand.",
+      "rating": 5,
+      "projectType": "Website Redesign"
+    }
+  ],
+  "pricing": {
+    "plans": [
+      {
+        "id": "basic",
+        "name": "Basic",
+        "price": "₹54,000",
+        "billingNote": "one-time",
+        "description": "A focused single page built to launch fast and convert visitors.",
+        "features": [
+          "1 custom landing page",
+          "Mobile-responsive design",
+          "Contact form",
+          "Basic SEO setup",
+          "1 round of revisions",
+          "7-day delivery"
+        ],
+        "notIncluded": ["CMS integration", "E-commerce functionality"],
+        "cta": "Get Started",
+        "highlighted": false
+      },
+      {
+        "id": "standard",
+        "name": "Standard",
+        "price": "₹1,50,000",
+        "billingNote": "one-time",
+        "description": "A complete business website with everything you need to look credible online.",
+        "features": [
+          "Up to 6 custom pages",
+          "Mobile-responsive design",
+          "On-page SEO optimization",
+          "Lead capture forms",
+          "Analytics integration",
+          "3 rounds of revisions",
+          "2-3 week delivery"
+        ],
+        "notIncluded": ["E-commerce functionality"],
+        "cta": "Get Started",
+        "highlighted": true
+      },
+      {
+        "id": "premium",
+        "name": "Premium",
+        "price": "₹2,90,000",
+        "billingNote": "one-time",
+        "description": "A premium, fully custom experience for businesses that need more.",
+        "features": [
+          "Up to 12 custom pages",
+          "Custom animations & 3D elements",
+          "E-commerce ready structure",
+          "Advanced SEO strategy",
+          "CMS / content editing setup",
+          "Unlimited revisions",
+          "Priority support for 30 days"
+        ],
+        "notIncluded": [],
+        "cta": "Get Started",
+        "highlighted": false
+      }
+    ],
+    "comparisonFeatures": [
+      { "feature": "Custom design", "basic": true, "standard": true, "premium": true },
+      { "feature": "Mobile responsive", "basic": true, "standard": true, "premium": true },
+      { "feature": "SEO optimization", "basic": "Basic", "standard": "Advanced", "premium": "Advanced+" },
+      { "feature": "Number of pages", "basic": "1", "standard": "Up to 6", "premium": "Up to 12" },
+      { "feature": "Custom animations", "basic": false, "standard": true, "premium": true },
+      { "feature": "3D / interactive elements", "basic": false, "standard": false, "premium": true },
+      { "feature": "CMS integration", "basic": false, "standard": "Optional", "premium": true },
+      { "feature": "E-commerce ready", "basic": false, "standard": false, "premium": true },
+      { "feature": "Priority support", "basic": false, "standard": "14 days", "premium": "30 days" }
+    ],
+    "customPlan": {
+      "title": "Need something custom?",
+      "description": "Multi-store e-commerce, web apps, or advanced integrations — let's scope it together.",
+      "cta": "Book a Call"
+    }
+  },
+  "faq": [
+    {
+      "id": "faq-1",
+      "question": "How long does it take to build a website?",
+      "answer": "Most business websites take 2-4 weeks from kickoff to launch, depending on scope. Landing pages can launch in as little as 5-7 days.",
+      "category": "Process"
+    },
+    {
+      "id": "faq-2",
+      "question": "Do you offer ongoing support after launch?",
+      "answer": "Yes. Every project includes a support window post-launch, and we offer ongoing maintenance & SEO plans for continued updates and improvements.",
+      "category": "Support"
+    },
+    {
+      "id": "faq-3",
+      "question": "Can you redesign my existing website without losing my SEO rankings?",
+      "answer": "Absolutely. Our redesign process includes a full audit and redirect mapping to preserve and improve your existing search rankings.",
+      "category": "Redesign"
+    },
+    {
+      "id": "faq-4",
+      "question": "What platforms do you build on?",
+      "answer": "We build primarily with Next.js and modern web technologies, giving you a fast, secure, and scalable website without page-builder bloat.",
+      "category": "Technical"
+    },
+    {
+      "id": "faq-5",
+      "question": "Do I need to provide content and images?",
+      "answer": "You can provide your own content, or we can help you plan and write conversion-focused copy as part of the project scope.",
+      "category": "Process"
+    },
+    {
+      "id": "faq-6",
+      "question": "How much does a website cost?",
+      "answer": "Pricing depends on scope, starting at ₹54,000 for a single landing page and scaling based on pages, features, and complexity. See our pricing page for details.",
+      "category": "Pricing"
+    },
+    {
+      "id": "faq-7",
+      "question": "Will my website work well on mobile devices?",
+      "answer": "Yes. Every website we build is fully responsive and tested across mobile, tablet, and desktop breakpoints before launch.",
+      "category": "Technical"
+    },
+    {
+      "id": "faq-8",
+      "question": "Can you build an online store?",
+      "answer": "Yes, we design and build e-commerce websites with secure checkout, product catalogs, and mobile-first shopping experiences.",
+      "category": "E-commerce"
+    }
+  ],
+  "blog": [
+    {
+      "id": "blog-1",
+      "slug": "why-every-business-needs-a-website",
+      "title": "Why Every Business Needs a Website in 2026",
+      "excerpt": "In a digital-first world, your website is often the first impression a potential customer has of your business. Here's why it matters more than ever.",
+      "content": "A website is no longer optional — it's the foundation of how customers discover, evaluate, and trust your business. Even businesses that rely on referrals or foot traffic benefit from a credible online presence, because most people research a company online before ever making contact. A well-built website acts as a 24/7 sales representative, answering questions, showcasing your work, and guiding visitors toward taking action. Beyond credibility, a website gives you control over your brand narrative in a way that social media and directory listings simply cannot match.",
+      "category": "Strategy",
+      "date": "2026-01-12",
+      "readTime": "4 min read",
+      "author": "Soni Web Solutions"
+    },
+    {
+      "id": "blog-2",
+      "slug": "how-fast-websites-improve-conversions",
+      "title": "How Fast Websites Improve Conversions",
+      "excerpt": "Speed isn't just a technical detail — it directly impacts whether visitors stay, engage, and convert. Here's what the data says.",
+      "content": "Every additional second a page takes to load increases the likelihood a visitor will leave before ever seeing your offer. Fast websites reduce bounce rates, improve search engine rankings, and create a smoother, more trustworthy experience for visitors. Modern frameworks like Next.js make it possible to deliver near-instant page loads through smart rendering strategies, optimized images, and minimal client-side JavaScript. For businesses, this translates directly into more inquiries, more sales, and a lower cost per acquisition across every marketing channel.",
+      "category": "Performance",
+      "date": "2026-02-03",
+      "readTime": "5 min read",
+      "author": "Soni Web Solutions"
+    },
+    {
+      "id": "blog-3",
+      "slug": "website-checklist-for-small-businesses",
+      "title": "The Website Checklist Every Small Business Should Follow",
+      "excerpt": "From clear calls to action to mobile responsiveness, here are the essentials your business website needs to actually generate leads.",
+      "content": "A great business website comes down to a handful of essentials: a clear value proposition above the fold, fast load times, mobile responsiveness, obvious calls to action, and content that builds trust — like testimonials, case studies, and clear contact information. Many small business websites fail not because the design is bad, but because visitors don't know what to do next. Auditing your site against this checklist regularly ensures your website continues to work as hard as the rest of your business.",
+      "category": "Guides",
+      "date": "2026-03-18",
+      "readTime": "6 min read",
+      "author": "Soni Web Solutions"
+    },
+    {
+      "id": "blog-4",
+      "slug": "signs-your-website-needs-a-redesign",
+      "title": "5 Signs Your Website Needs a Redesign",
+      "excerpt": "If your website was built more than a few years ago, there's a good chance it's costing you customers. Here's how to know for sure.",
+      "content": "Outdated design, slow load times, poor mobile experience, low search rankings, and a lack of clear calls to action are the clearest signs that your website needs a redesign. Businesses often underestimate how much an old website affects credibility — visitors form an opinion about your business within seconds of landing on your site. If your site hasn't been updated in the last 2-3 years, it's worth a professional audit.",
+      "category": "Redesign",
+      "date": "2026-04-02",
+      "readTime": "4 min read",
+      "author": "Soni Web Solutions"
+    }
+  ],
+  "contact": {
+    "email": "sonisolutions01@gmail.com",
+    "address": "Remote-first studio, serving clients worldwide",
+    "availability": "Currently booking new projects for Q3 2026",
+    "responseTime": "We respond to all inquiries within 24 hours on business days.",
+    "calendlyUrl": "https://cal.com/soniwebsolutions/intro-call",
+    "formServiceOptions": [
+      "Business Website",
+      "E-commerce Website",
+      "Landing Page",
+      "Website Redesign",
+      "Maintenance & SEO",
+      "Something Custom"
+    ],
+    "budgetOptions": [
+      "Under ₹85,000",
+      "₹85,000 - ₹2,10,000",
+      "₹2,10,000 - ₹4,20,000",
+      "₹4,20,000+"
+    ]
+  },
+  "footer": {
+    "description": "We design and build modern, high-converting websites that help businesses look credible, load fast, and grow online.",
+    "quickLinks": [
+      { "label": "About", "href": "/about" },
+      { "label": "Portfolio", "href": "/portfolio" },
+      { "label": "Pricing", "href": "/pricing" },
+      { "label": "Blog", "href": "/blog" },
+      { "label": "Contact", "href": "/contact" }
+    ],
+    "serviceLinks": [
+      { "label": "Business Websites", "href": "/services#business-websites" },
+      { "label": "E-commerce Websites", "href": "/services#ecommerce-websites" },
+      { "label": "Landing Pages", "href": "/services#landing-pages" },
+      { "label": "Website Redesign", "href": "/services#website-redesign" },
+      { "label": "Maintenance & SEO", "href": "/services#maintenance-seo" }
+    ],
+    "copyright": "Soni Web Solutions. All rights reserved."
+  },
+  "social": [
+    { "platform": "Twitter", "href": "https://twitter.com/soniwebsolutions", "icon": "Twitter" },
+    { "platform": "LinkedIn", "href": "https://linkedin.com/company/soniwebsolutions", "icon": "Linkedin" },
+    { "platform": "Instagram", "href": "https://instagram.com/soniwebsolutions", "icon": "Instagram" },
+    { "platform": "GitHub", "href": "https://github.com/soniwebsolutions", "icon": "Github" },
+    { "platform": "Dribbble", "href": "https://dribbble.com/soniwebsolutions", "icon": "Dribbble" }
+  ],
+  "cta": {
+    "finalCta": {
+      "title": "Ready to build a website that actually works for your business?",
+      "description": "Let's talk about your goals and put together a plan to get your new site live in weeks, not months.",
+      "primaryCta": { "label": "Start a Project", "href": "/contact" },
+      "secondaryCta": { "label": "See Pricing", "href": "/pricing" }
+    }
+  },
+  "about": {
+    "intro": "Soni Web Solutions was founded to help businesses get the websites they actually deserve: fast, modern, and built to convert.",
+    "founderBackground": "Before founding the studio, our founder spent years working as a software engineer building production web applications for startups and enterprise teams. That engineering background shapes everything we build — clean code, real performance, and no shortcuts.",
+    "whyExists": "Too many businesses are stuck with slow, outdated, or generic template websites that don't reflect the quality of their work. Soni Web Solutions exists to close that gap with custom, professionally engineered websites at a price small and mid-sized businesses can actually afford.",
+    "philosophy": "Design should be simple, fast, and purposeful. Every section of a website should earn its place by moving a visitor closer to becoming a customer.",
+    "mission": "To help 500 businesses build a website they're proud to share by 2028.",
+    "values": [
+      {
+        "title": "Craftsmanship",
+        "description": "We sweat the details — spacing, typography, motion — because small things add up to trust."
+      },
+      {
+        "title": "Honesty",
+        "description": "Clear pricing, clear timelines, and honest recommendations, even when it means a smaller project."
+      },
+      {
+        "title": "Performance",
+        "description": "A beautiful website that loads slowly is a broken website. We optimize for real-world speed."
+      },
+      {
+        "title": "Partnership",
+        "description": "We treat every project like our own business is on the line, because your growth is our growth."
+      }
+    ],
+    "processSummary": [
+      "Discovery call to understand your goals",
+      "Custom design proposal and timeline",
+      "Iterative build with regular check-ins",
+      "Launch, training, and ongoing support"
+    ],
+    "founder": {
+      "name": "Prabhat Soni",
+      "role": "Founder & Lead Engineer",
+      "bio": "Prabhat is a software engineer turned web design studio founder, with a background in building scalable web applications before focusing full-time on helping businesses grow through better websites.",
+      "image": "/about/founder.svg"
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Modern Websites That Convert",
+      "description": "We design and build modern, high-converting websites for businesses. Fast, credible, and built to grow your business online."
+    },
+    "services": {
+      "title": "Services",
+      "description": "Explore our web design and development services: business websites, e-commerce, landing pages, redesigns, and ongoing maintenance & SEO."
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "description": "See real projects we've designed and built for businesses across industries, from e-commerce stores to professional service websites."
+    },
+    "about": {
+      "title": "About",
+      "description": "Learn about Soni Web Solutions' founder, philosophy, mission, and the values behind every website we build."
+    },
+    "pricing": {
+      "title": "Pricing",
+      "description": "Transparent pricing for business websites, e-commerce stores, landing pages, and ongoing maintenance & SEO plans."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Get in touch to start your next website project. We typically respond within 24 hours on business days."
+    },
+    "testimonials": {
+      "title": "Testimonials",
+      "description": "Read what business owners say about working with Soni Web Solutions on their website projects."
+    },
+    "blog": {
+      "title": "Blog",
+      "description": "Insights on web design, performance, and growing your business online."
+    },
+    "process": {
+      "title": "Our Process",
+      "description": "See how we take your project from discovery to launch through a clear, collaborative process."
+    },
+    "faq": {
+      "title": "FAQ",
+      "description": "Answers to common questions about our web design and development process, pricing, and timelines."
+    },
+    "caseStudies": {
+      "title": "Case Studies",
+      "description": "Deep dives into how we've helped businesses solve real problems with modern, high-converting websites."
+    }
+  }
+}
